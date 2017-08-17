@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+	<Placemark>
+      <name>The Wildlife Corridors Program</name>
+      <description>Banyule Council</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7043304,145.1024588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable Homes and Communities Program</name>
+      <description>Banyule Council</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.737336,145.0291023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Artesian Studios</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7360693,145.0413774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Avril Lunken</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.755089,145.0648707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>DIY Double Glazing</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.733763,145.1314773,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Eltham Farmers Market</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7149042,145.1476055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Felicity Gordon – Community Art</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.717625,145.0872403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Greencom</name>
+      <description>Social Enterprise</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7114612,145.1106956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Wings to Sing</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.745746,145.0396453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Horticulture by Design</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.774462,145.0518643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>The SALT Foundation</name>
+      <description>Social Enterprise</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.737945,145.0367403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Olympic Village Adult Education</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7393524,145.03835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Urban Shepherd</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7222394,145.0759658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Bellfield Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7562665,145.0361807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Boger Rd Watsonia Street Composting</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7128114,145.0774746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Macleod Organic Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7233916,145.0675783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Olympic Adult Education Community Kitchen and Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7411108,145.0317836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>St John's Church Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.758253,145.0639343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Watsonia Library Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.710364,145.0814493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Buna Reserve Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7374914,145.0391138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Andrew Yandell Habitat Reserve</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.6983556,145.1106511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Anthony Beale Reserve</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.696006,145.1237823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Banyule</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7505834,145.0763546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Monty Bushlands</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.719406,145.1260413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Salt Creek- Rosanna Parklands</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7409972,145.0661478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Wilson Reserve- Ivanhoe</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7793112,145.0437036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Warringal Conservation Society</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7505834,145.0763546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Care for our Common Home Community Coalition</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7159924,145.1244032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Speaking of Sustainability</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.747166,145.0440303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>St Francis Xavier Social Justice Group</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7155256,145.1241087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Textile Art Community</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7337843,145.0468241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Murundaka</name>
+      <description>Intentional Community</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7405669,145.0537316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>The Hood Community - Heidelberg West</name>
+      <description>Intentional Community</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7448177,145.0388293,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Alice House</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7379083,145.0367026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Watsonia Neighbourhood House</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7120723,145.0779359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Australian Breast-feeding Association- Banksia group- Monthly Meetings at The Harmony Centre- Heidelberg West Mall</name>
+      <description>Network</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7192651,145.0834244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Pharmacists for the Environment Australia (PEA)</name>
+      <description>Network</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.756385,145.0639383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Bell Street Mall Local Litter Alliance</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7494358,145.0403251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Darebin Creek Sweepers</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7497673,145.0237902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Green & Local Auction fundraiser- Sustainable Macleod</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.726761,145.0675893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Monty Carbon Neutral Bush Dance</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7190011,145.1237592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable House</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.704093,145.1177373,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>The Bike Hut</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7426625,145.0409487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Boomerang Bags</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7268319,145.0699547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition 3081 Rough Trade Rummage</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7403958,145.0547176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Ivanhoe Primary School – Resource Recovery Program</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7666928,145.0404534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>St Bernadette's Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7631312,145.0319911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>St Pius X Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.747166,145.0440303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Viewbank Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7377516,145.0842154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition Banyule</name>
+      <description>Transition Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.748519,145.0602393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable Greensborough</name>
+      <description>Transition Group</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7119848,145.0907863,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Greensborough food swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.6896073,145.1061533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Macleod Veggie Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.726761,145.0675893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Monty Food Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.7175889,145.119406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition 3081 Veggie Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -37.740299,145.0384603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    </Placemark>
+
+  </Document>
+</kml>
