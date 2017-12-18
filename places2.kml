@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+
+    <Style id="icon-1899-Banyule_Council-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Banyule_Council.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Banyule_Council-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Banyule_Council.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Banyule_Council-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Banyule_Council-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Banyule_Council-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Business-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Business.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Business-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Business.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Business-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Business-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Business-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Social_Enterprise-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Social_Enterprise.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Social_Enterprise-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Social_Enterprise.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Social_Enterprise-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Social_Enterprise-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Social_Enterprise-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Neighbourhood_House-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Neighbourhood_House.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Neighbourhood_House-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Neighbourhood_House.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Neighbourhood_House-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Neighbourhood_House-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Neighbourhood_House-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Community_Garden-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Community_Garden.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Community_Garden-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Community_Garden.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Community_Garden-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Community_Garden-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Community_Garden-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Project-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Project.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Project-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Project.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Project-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Project-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Project-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Conservation_Group-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Conservation_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Conservation_Group-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Conservation_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Conservation_Group-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Conservation_Group-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Conservation_Group-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Community_Group-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Community_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Community_Group-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Community_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Community_Group-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Community_Group-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Community_Group-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Intentional_Community-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Intentional_Community.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Intentional_Community-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Intentional_Community.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Intentional_Community-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Intentional_Community-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Intentional_Community-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Network-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Network.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Network-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Network.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Network-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Network-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Network-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-School-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/School.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-School-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/School.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-School-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-School-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-School-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Transition_Group-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Transition_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Transition_Group-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Transition_Group.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Transition_Group-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Transition_Group-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Transition_Group-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Style id="icon-1899-Food_Swap-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Food_Swap.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-Food_Swap-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/Food_Swap.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-Food_Swap-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-Food_Swap-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-Food_Swap-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+	<Placemark>
+      <name>The Wildlife Corridors Program</name>
+      <description>Banyule Council</description>
+      <styleUrl>#icon-1899-Banyule_Council-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1024588,-37.7043304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable Homes and Communities Program</name>
+      <description>Banyule Council</description>
+      <styleUrl>#icon-1899-Banyule_Council-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0423828,-37.7659246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Artesian Studios</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0413774,-37.7360693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Avril Lunken</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0648707,-37.755089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>DIY Double Glazing</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1314773,-37.733763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Eltham Farmers Market</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1476055,-37.7149042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Felicity Gordon – Community Art</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0872403,-37.717625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Greencom</name>
+      <description>Social Enterprise</description>
+      <styleUrl>#icon-1899-Social_Enterprise-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1106956,-37.7114612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Wings to Sing</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0396453,-37.745746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Horticulture by Design</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0518643,-37.774462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>The SALT Foundation</name>
+      <description>Social Enterprise</description>
+      <styleUrl>#icon-1899-Social_Enterprise-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0367403,-37.737945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Olympic Village Adult Education</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-Neighbourhood_House-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.03835,-37.7393524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Urban Shepherd</name>
+      <description>Business</description>
+      <styleUrl>#icon-1899-Business-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0759658,-37.7222394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Bellfield Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0361807,-37.7562665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Boger Rd Watsonia Street Composting</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0774746,-37.7128114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Macleod Organic Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0675783,-37.7233916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Olympic Adult Education Community Kitchen and Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0317836,-37.7411108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>St John's Church Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0639343,-37.758253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Watsonia Library Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0814493,-37.710364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Buna Reserve Community Garden</name>
+      <description>Community Garden</description>
+      <styleUrl>#icon-1899-Community_Garden-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0391138,-37.7374914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Andrew Yandell Habitat Reserve</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1106511,-37.6983556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Anthony Beale Reserve</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1237823,-37.696006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Banyule</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0763546,-37.7505834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Monty Bushlands</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1260413,-37.719406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Salt Creek- Rosanna Parklands</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0661478,-37.7409972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Friends of Wilson Reserve- Ivanhoe</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0437036,-37.7793112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Warringal Conservation Society</name>
+      <description>Conservation Group</description>
+      <styleUrl>#icon-1899-Conservation_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0763546,-37.7505834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Care for our Common Home Community Coalition</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1244032,-37.7159924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Speaking of Sustainability</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0440303,-37.747166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>St Francis Xavier Social Justice Group</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1241087,-37.7155256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Textile Art Community</name>
+      <description>Group</description>
+      <styleUrl>#icon-1899-Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0468241,-37.7337843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Murundaka</name>
+      <description>Intentional Community</description>
+      <styleUrl>#icon-1899-Intentional_Community-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0537316,-37.7405669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>The Hood Community - Heidelberg West</name>
+      <description>Intentional Community</description>
+      <styleUrl>#icon-1899-Intentional_Community-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0388293,-37.7448177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Alice House</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-Neighbourhood_House-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0367026,-37.7379083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Watsonia Neighbourhood House</name>
+      <description>Neighbourhood House</description>
+      <styleUrl>#icon-1899-Neighbourhood_House-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0779359,-37.7120723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Australian Breast-feeding Association- Banksia group- Monthly Meetings at The Harmony Centre- Heidelberg West Mall</name>
+      <description>Network</description>
+      <styleUrl>#icon-1899-Network-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0834244,-37.7192651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Pharmacists for the Environment Australia (PEA)</name>
+      <description>Network</description>
+      <styleUrl>#icon-1899-Network-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0639383,-37.756385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Bell Street Mall Local Litter Alliance</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0403251,-37.7494358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Darebin Creek Sweepers</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0259398,-37.744189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Green & Local Auction fundraiser- Sustainable Macleod</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0675893,-37.726761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Monty Carbon Neutral Bush Dance</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1237592,-37.7190011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable House</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1177373,-37.704093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>The Bike Hut</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0409487,-37.7426625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Boomerang Bags</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0699547,-37.7268319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition 3081 Rough Trade Rummage</name>
+      <description>Project</description>
+      <styleUrl>#icon-1899-Project-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0547176,-37.7403958,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Ivanhoe Primary School – Resource Recovery Program</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-School-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0404534,-37.7666928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>St Bernadette's Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-School-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0319911,-37.7631312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>St Pius X Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-School-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0440303,-37.747166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Viewbank Primary School</name>
+      <description>School</description>
+      <styleUrl>#icon-1899-School-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0842154,-37.7377516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition Banyule</name>
+      <description>Transition Group</description>
+      <styleUrl>#icon-1899-Transition_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0602393,-37.748519,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Sustainable Greensborough</name>
+      <description>Transition Group</description>
+      <styleUrl>#icon-1899-Transition_Group-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0907863,-37.7119848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Greensborough food swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-Food_Swap-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.1061533,-37.6896073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Macleod Veggie Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-Food_Swap-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0675893,-37.726761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Monty Food Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-Food_Swap-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.119406,-37.7175889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+	<Placemark>
+      <name>Transition 3081 Veggie Swap</name>
+      <description>Food Swap</description>
+      <styleUrl>#icon-1899-Food_Swap-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+		145.0384603,-37.740299,0
+        </coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
